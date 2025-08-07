@@ -1,5 +1,5 @@
 # 🧐 TheLastOne_GyuminOnly
-TheLastOne 게임 제작 중, 송규민이 작업한 스크립트를 모아놨습니다.
+TheLastOne 게임 제작 중, 송규민이 작업한 스크립트를 모아놨습니다. <br>
 송규민은 **적 오브젝트 전반을 담당**하였습니다.  
 
 <br>
