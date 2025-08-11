@@ -598,3 +598,5 @@ public abstract class BaseNpcStatController : MonoBehaviour, IStunnable, IHackab
 - 자식 StatController에선 runtimeStatData 필드에 자신을 넘김 
 - 외부에서 BaseNpcStatController의 TryGetRuntimeStatInterface 실행 시 해당 Npc가 특정 동작 수행이 가능한지, 수치는 얼마인지 알 수 있음
 - [코드로 이동](https://github.com/Neronem/TheLastOne_GyuminOnly/blob/main/1.%20AI%20%EA%B5%AC%ED%98%84/StatControllers/Base/BaseNpcStatController.cs#L383)
+
+---
